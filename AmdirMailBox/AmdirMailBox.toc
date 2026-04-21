@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cff00ff00VIP|r MailBox
+## Notes: Quick mail management for Amdir (AMDIR)
+## Author: AMDIR
+## Version: 1.0
+
+AmdirMailBox.lua
